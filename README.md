@@ -1,40 +1,55 @@
-📊 Cause of Death Analysis Dashboard
+# 📊 Cause of Death Analysis Dashboard
 
 An interactive Power BI dashboard analyzing global causes of death across countries and years.
 
-🎯 Project Overview
+## 🎯 Objectives
 
-This project explores patterns and trends in causes of death using interactive dashboards and country-level analysis.
+- 🌍 Analyze total deaths across countries
+- 📈 Identify trends in causes of death over the years
+- 🩺 Analyze major and leading causes of death
+- 🧠 Examine self-harm and mental health-related deaths
+- 🍺 Analyze alcohol and drug use disorders
+- 🦠 Study tuberculosis and respiratory diseases
+- 🍎 Analyze nutritional deficiencies
+- 🩸 Examine diabetes and other major causes
+- 👥 Compare causes of death across countries
 
-Key Analysis
-🌍 Total deaths by country
-📈 Causes of death by year
-🩺 Leading causes of death
-🧠 Self-harm and mental health-related deaths
-🍺 Alcohol and drug use disorders
-🦠 Tuberculosis and respiratory diseases
-🍎 Nutritional deficiencies
-🩸 Diabetes and other major causes
-👥 Country-wise comparisons
-📑 Dashboard Pages
-Summary – Global overview of major causes of death
-India – Detailed India analysis
-China – Country-level analysis
-Australia – Country-level analysis
-United States – Country-level analysis
-Japan – Country-level analysis
-🛠️ Tools Used
-Power BI
-Power Query
-DAX
-Data Visualization
-📌 Features
-Interactive country and year filters
-KPI cards
-Trend analysis
-Geographic visualization
-Cause-of-death comparisons
-Country-specific dashboards
-⚠️ Note
+## 🛠️ Technologies
+
+- Power BI
+- Power Query
+- DAX
+- Data Visualization
+
+## 📊 Analysis Performed
+
+- 🌍 Global cause-of-death analysis
+- 📈 Year-wise trend analysis
+- 👥 Country-wise comparison
+- 🩺 Leading causes of death
+- 🗺️ Geographic analysis
+- 📊 KPI and dashboard visualization
+- 🔎 Country-specific analysis
+
+## 📑 Dashboard Pages
+
+- 🇮🇳 **India** – Detailed country analysis
+- 🇨🇳 **China** – Detailed country analysis
+- 🇦🇺 **Australia** – Detailed country analysis
+- 🇺🇸 **United States** – Detailed country analysis
+- 🇯🇵 **Japan** – Detailed country analysis
+- 🌍 **Summary** – Global overview of major causes of death
+
+## 📌 Key Features
+
+- Interactive country filters
+- Year filters
+- KPI cards
+- Trend charts
+- Geographic visualization
+- Cause-of-death comparisons
+- Country-specific dashboards
+
+## ⚠️ Note
 
 This dashboard is created for educational and analytical purposes.
